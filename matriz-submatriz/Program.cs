@@ -76,15 +76,18 @@ namespace matriz_submatriz
                 { 4, 2, 1, 3 },
                 { 3, 1, 2, 4 }
             };
+            int[,] SubMatriz = new int[TAM_MATRIZ-1, TAM_MATRIZ-1]
+           {
+                { 1, 2, 3 },
+                { 4, 3, 2 },
+                { 4, 2, 1 }
+           };
 
-            int[,] MatrizResp = MatrizResposta(MatrizPrincipal);
 
-            StringBuilder Texto = new StringBuilder();
-            Resultado(Texto, "Matriz Principal", MatrizPrincipal);
-            Texto.Append(Environment.NewLine);
-            Resultado(Texto, "Matriz Resultante", MatrizResp);
 
-            Console.WriteLine(Texto);
+
+
+            Console.WriteLine();
         }
     }
 }
