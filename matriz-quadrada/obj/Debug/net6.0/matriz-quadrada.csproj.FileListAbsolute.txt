@@ -1,0 +1,15 @@
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\bin\Debug\net6.0\matriz-quadrada.exe
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\bin\Debug\net6.0\matriz-quadrada.deps.json
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\bin\Debug\net6.0\matriz-quadrada.runtimeconfig.json
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\bin\Debug\net6.0\matriz-quadrada.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\bin\Debug\net6.0\matriz-quadrada.pdb
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.csproj.AssemblyReference.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.AssemblyInfoInputs.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.AssemblyInfo.cs
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.csproj.CoreCompileInputs.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\refint\matriz-quadrada.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.pdb
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\matriz-quadrada.genruntimeconfig.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-quadrada\obj\Debug\net6.0\ref\matriz-quadrada.dll
