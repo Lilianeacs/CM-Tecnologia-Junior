@@ -1,0 +1,15 @@
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.csproj.AssemblyReference.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.AssemblyInfoInputs.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.AssemblyInfo.cs
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.csproj.CoreCompileInputs.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\bin\Debug\net6.0\matriz-submatriz.exe
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\bin\Debug\net6.0\matriz-submatriz.deps.json
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\bin\Debug\net6.0\matriz-submatriz.runtimeconfig.json
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\bin\Debug\net6.0\matriz-submatriz.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\bin\Debug\net6.0\matriz-submatriz.pdb
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\refint\matriz-submatriz.dll
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.pdb
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\matriz-submatriz.genruntimeconfig.cache
+D:\CM_\CM-Tecnologia-Junior\matriz-submatriz\obj\Debug\net6.0\ref\matriz-submatriz.dll
